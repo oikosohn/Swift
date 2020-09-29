@@ -1,3 +1,4 @@
+// 옵셔널 변수
 var index: Int?
 
 index = 1
@@ -17,3 +18,13 @@ if index2 != nil {
 1
 Optional(2)
 */
+
+
+// if 조건문
+
+if num%2 == 1{
+  print("\(num)는 홀수입니다.")
+}
+else {
+  print("\(num)는 짝수입니다.")
+}
