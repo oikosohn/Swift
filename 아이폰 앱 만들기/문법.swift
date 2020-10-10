@@ -54,3 +54,48 @@ score[3] = 60
 for i in 0..<10 {
 	print(i)
 }
+
+
+// 6장
+// 익명함수(Anonymous Function) 혹은 클로저(Closer) : 함수 이름을 선언핮 않고 함수 몸체만 만들어 사용하는 일회용 함수이다. 효율적인 코드 작성에 도움이 된다.
+
+// step1.
+func completeWork(finished: Bool) -> () {
+	// Bool 타입의 finished 매개변수를 받아 출력하는 리터 타입이 없는 함수
+	print("complete: \(finished)")
+}
+
+// step2. 익명함수로 바꾸기
+{	
+	// (매개변수) -> 반환 타입 in 실행구문
+	(finished: Bool) -> () in
+	print("complete: \(finished)")
+}
+
+// step3. 컴파일러가 반환 타이ㅂ을 미리 알고 있다면 반화 타입 생략 가능
+{
+	// (매개변수) in 실행구문
+	(finished: Bool) in
+	print("complete: \(finished)")
+}
+
+// step4. 컴파일러가 매개변수의 파라미터 타입을 악 있다면 생략 가능. 만약 컴파일러가 finished 타입을 알 있다면 아래처럼 쓸 수 있음
+{
+	(finished) in
+	print("complete: \(finished)")
+}
+
+// step5. 파라미터 타입이 생략된 경우 매개변수의 소괄호 생략 가능
+{	
+	// 매개변수 in 실행 구문
+	finished in
+	print("complete: \(finished)")
+}
+
+}
+
+
+
+
+
+
