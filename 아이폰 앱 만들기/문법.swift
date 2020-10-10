@@ -92,8 +92,6 @@ func completeWork(finished: Bool) -> () {
 	print("complete: \(finished)")
 }
 
-}
-
 
 
 
