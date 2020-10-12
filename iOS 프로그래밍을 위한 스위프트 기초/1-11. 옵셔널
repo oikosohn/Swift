@@ -1,0 +1,53 @@
+// 옵셔널 = enum + general
+// 정의 : 값이 있을 수도 없을 수도 있음
+// 옵셔널 아닌 값에 nil 값 할당할 수 없음
+//옵셔널 : nil의 가능성을 명시적으로표현
+
+func someFunction(someOptionalParam: Int?) {
+}
+
+func someFunction(someParam: Int) {
+}
+
+someFunction(someOptionalParam: nil)
+// someFunction(someParam:nil) : 옵셔널 미사용
+
+
+// 옵셔널 = enum + general
+//enum Optional<Wrapped>: ExpressibleByNiliteral {
+//         case none
+//         case some(Wrapped)
+//}
+
+//let optionalValue: Optional<Int> = nil
+//let optionalValue: Int? =nil
+
+
+// 옵셔널 표현 - ! : 암시적 추출 옵셔널(Implicity Unwrapped Optional)
+var optionalValue: Int! = 100
+switch optionalValue {
+  case .none:
+  print("This Optional variable is nil")
+  case .some(let value):
+  print("Value is \(value)")
+}
+
+optionalValue = optionalValue + 1 // 기존 변수처럼 사용 가능
+
+optionalValue = nil // nil 할당 가능
+
+// optionalValue = optionalValue + 1 : nil 값 할당했는데 잘못된 접근으로 인한 런타임 오류
+
+
+// 옵셔널 표현 - ? : 
+var optionalValue2: Int? = 100
+switch optionalValue2 {
+  case .none:
+  print("This Optional variable is nil")
+  case .some(let value):
+  print("Value is \(value)")
+}
+
+optionalValue2 = nil // nil 할당 가능
+
+// optionalValue = optionalValue + 1 : 기존 변수처럼 사용 불가 why? 옵셔널과 일반 값은 다른 타입이므로 연산 불가
