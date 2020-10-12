@@ -1,0 +1,65 @@
+// 필요하고 책임질 수 있을때만 옵셔널 강제추출 사용하기
+
+// 옵셔널 추출(Optional Unwrapping)
+
+// 1. Optional Binding : 옵셔널 바인딩 = nil 체크 + 안전한 값 추출 => 값이 있는지 체크하고 있다면 값을 가져오고 없다면 가져오지 않음
+
+func printName(_ name: String){
+  print(name)
+}
+
+var myName: String? = nil
+
+// printName(myName) 전달되는 값의 타입이 옵셔널이기 때문에 타입이 달라 때문에 컴파일 오류 발생
+
+// if-let 방식으로 옵셔널 바인딩
+func printName2(_ name: String){
+  print(name)
+}
+
+var myName2: String! = nil
+
+// name 상수는 if-let 구문 안에서만 사용 가능
+if let name: String = myName2 {
+  printName2(name)
+} else {
+  print("myName2 == nil")
+}
+
+// printName2(name) : name 상수는 if-let 구문 안에서만 사용 가능. 상수 사용범위를 벗어났기 때문에 컴파일 오류 발생
+
+
+var myName3: String? = "ya"
+var yourName: String? = nil
+
+if let name = myName3, let friend = yourName {
+  print("\(name) and \(friend)")
+}
+// name과 friend의 값이 모두 존재해야 실행됨. yourName이 nil이기 때문에 실행되지 않음
+
+yourName = "ha"
+if let name = myName3, let friend = yourName {
+  print("\(name) and \(friend)")
+}
+
+
+
+
+// 2. Force Unwrapping : 강제 추출 = 추출되는 방식 아니다
+
+func printName3(_ name: String){
+  print(name)
+}
+
+var myName4: String? = "gom"
+
+printName3(myName4!) // 옵셔널 값 강제 추출되어 printName3으로 전달
+
+myName4 = nil
+
+// print(myName4) : 강제 추출시 값이 없으므로 런타임 오류 발생
+
+var yourName2: String! = "hana" 
+printName3(yourName2) // String! : 강제추출 가정하기 때문에 느낌표 없이 전달 가능
+yourName2 = nil
+// printName3(yourName) nil 값 전달되기 때문에 런타임 오류 발생 
