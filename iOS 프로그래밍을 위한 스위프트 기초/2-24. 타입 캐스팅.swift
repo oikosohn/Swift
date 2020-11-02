@@ -147,7 +147,7 @@ doSomthingWithSwitch(someone: yagom)
 
 
 
-func doSomthing(someone: Person) {
+func doSomthing(someone: Person) { // 캐스팅과 동시에 반환해서 언래핑할 수 있음
   if let UniversityStudent = someone as? UniversityStudent {
     UniversityStudent.goToMT()
   } else if let student = someone as? Student {
