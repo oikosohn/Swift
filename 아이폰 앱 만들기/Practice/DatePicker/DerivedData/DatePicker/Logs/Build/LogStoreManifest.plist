@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9901F276-F082-425D-8B80-68F8660A6928</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9901F276-F082-425D-8B80-68F8660A6928.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker</string>
+			<key>timeStartedRecording</key>
+			<real>623333862.95330799</real>
+			<key>timeStoppedRecording</key>
+			<real>623333863.06535697</real>
+			<key>title</key>
+			<string>Build DatePicker</string>
+			<key>uniqueIdentifier</key>
+			<string>9901F276-F082-425D-8B80-68F8660A6928</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

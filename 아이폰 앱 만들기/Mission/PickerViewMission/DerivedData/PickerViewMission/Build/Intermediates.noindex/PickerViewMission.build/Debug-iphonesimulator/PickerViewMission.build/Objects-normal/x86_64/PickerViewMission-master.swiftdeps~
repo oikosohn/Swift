@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "984e940e3c6475f795fe2b4b16d5ff29"
+build_time: [1601999896, 76402000]
+inputs:
+  "/Users/son/Desktop/PickerViewMission/PickerViewMission/ViewController.swift": [1601999895, 934413741]
+  "/Users/son/Desktop/PickerViewMission/PickerViewMission/AppDelegate.swift": [1601998788, 177558148]
+  "/Users/son/Desktop/PickerViewMission/PickerViewMission/SceneDelegate.swift": [1601998788, 181505335]

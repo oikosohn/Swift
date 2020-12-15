@@ -1,0 +1,672 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "10DatePicker14ViewControllerC"
+provides-member:
+- ["10DatePicker14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "changeDatePicker"
+- "count"
+- "interval"
+- "lblCurrentTime"
+- "lblPickerTime"
+- "timeSelector"
+- "updateTime"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "DateFormatter"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Selector"
+- !private "String"
+- !private "StringLiteralType"
+- !private "Timer"
+- "UIDatePicker"
+- "UILabel"
+- "UIViewController"
+- "ViewController"
+- !private "count"
+- !private "interval"
+- !private "lblCurrentTime"
+- !private "lblPickerTime"
+- !private "timeSelector"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- ["SK", ""]
+- !private ["SK", "init"]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "date"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "DateFormatter"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "Timer"]
+- ["s7CVarArgP", "ViewController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "changeDatePicker"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "date"]
+- !private ["s7CVarArgP", "dateFormat"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "interval"]
+- !private ["s7CVarArgP", "lblCurrentTime"]
+- !private ["s7CVarArgP", "lblPickerTime"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "timeSelector"]
+- ["s7CVarArgP", "updateTime"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- !private ["Sl", "init"]
+- ["SL", ""]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "DateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "Timer"]
+- ["s28CustomDebugStringConvertibleP", "ViewController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "changeDatePicker"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "interval"]
+- !private ["s28CustomDebugStringConvertibleP", "lblCurrentTime"]
+- !private ["s28CustomDebugStringConvertibleP", "lblPickerTime"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "timeSelector"]
+- ["s28CustomDebugStringConvertibleP", "updateTime"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "DateFormatter"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "Timer"]
+- ["s23CustomStringConvertibleP", "ViewController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "changeDatePicker"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "dateFormat"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "interval"]
+- !private ["s23CustomStringConvertibleP", "lblCurrentTime"]
+- !private ["s23CustomStringConvertibleP", "lblPickerTime"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "timeSelector"]
+- ["s23CustomStringConvertibleP", "updateTime"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["So15NSDateFormatterC", "dateFormat"]
+- !private ["So15NSDateFormatterC", "init"]
+- !private ["So15NSDateFormatterC", "string"]
+- !private ["Se", "init"]
+- !private ["Se", "text"]
+- !private ["SE", "init"]
+- !private ["SE", "text"]
+- !private ["SQ", "DateFormatter"]
+- !private ["SQ", "String"]
+- !private ["SQ", "Timer"]
+- ["SQ", "ViewController"]
+- ["SQ", ""]
+- !private ["SQ", "changeDatePicker"]
+- !private ["SQ", "count"]
+- !private ["SQ", "date"]
+- !private ["SQ", "dateFormat"]
+- !private ["SQ", "init"]
+- !private ["SQ", "interval"]
+- !private ["SQ", "lblCurrentTime"]
+- !private ["SQ", "lblPickerTime"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "string"]
+- !private ["SQ", "text"]
+- !private ["SQ", "timeSelector"]
+- ["SQ", "updateTime"]
+- !private ["SQ", "viewDidLoad"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["So11NSFormatterC", ""]
+- !private ["So11NSFormatterC", "dateFormat"]
+- !private ["So11NSFormatterC", "dateFormatFromTemplate"]
+- !private ["So11NSFormatterC", "init"]
+- !private ["So11NSFormatterC", "string"]
+- !private ["So11NSFormatterC", "stringFromDate"]
+- !private ["SH", "DateFormatter"]
+- !private ["SH", "String"]
+- !private ["SH", "Timer"]
+- ["SH", "ViewController"]
+- ["SH", ""]
+- !private ["SH", "changeDatePicker"]
+- !private ["SH", "count"]
+- !private ["SH", "date"]
+- !private ["SH", "dateFormat"]
+- !private ["SH", "init"]
+- !private ["SH", "interval"]
+- !private ["SH", "lblCurrentTime"]
+- !private ["SH", "lblPickerTime"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "string"]
+- !private ["SH", "text"]
+- !private ["SH", "timeSelector"]
+- ["SH", "updateTime"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "DateFormatter"]
+- ["So8NSCodingP", "Selector"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "Timer"]
+- ["So8NSCodingP", "UIDatePicker"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "ViewController"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "changeDatePicker"]
+- ["So8NSCodingP", "count"]
+- !private ["So8NSCodingP", "date"]
+- !private ["So8NSCodingP", "dateFormat"]
+- !private ["So8NSCodingP", "dateFormatFromTemplate"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "interval"]
+- ["So8NSCodingP", "lblCurrentTime"]
+- ["So8NSCodingP", "lblPickerTime"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "stringFromDate"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "timeSelector"]
+- ["So8NSCodingP", "updateTime"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "dateFormat"]
+- !private ["So9NSCopyingP", "dateFormatFromTemplate"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So9NSCopyingP", "stringFromDate"]
+- !private ["So26NSExtensionRequestHandlingP", "DateFormatter"]
+- ["So26NSExtensionRequestHandlingP", "Selector"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "Timer"]
+- ["So26NSExtensionRequestHandlingP", "UIDatePicker"]
+- ["So26NSExtensionRequestHandlingP", "UILabel"]
+- ["So26NSExtensionRequestHandlingP", "ViewController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "changeDatePicker"]
+- ["So26NSExtensionRequestHandlingP", "count"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "interval"]
+- ["So26NSExtensionRequestHandlingP", "lblCurrentTime"]
+- ["So26NSExtensionRequestHandlingP", "lblPickerTime"]
+- ["So26NSExtensionRequestHandlingP", "timeSelector"]
+- ["So26NSExtensionRequestHandlingP", "updateTime"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "DateFormatter"]
+- ["So8NSObjectC", "Selector"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UIDatePicker"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "ViewController"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "changeDatePicker"]
+- ["So8NSObjectC", "count"]
+- !private ["So8NSObjectC", "date"]
+- !private ["So8NSObjectC", "dateFormat"]
+- !private ["So8NSObjectC", "dateFormatFromTemplate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interval"]
+- ["So8NSObjectC", "lblCurrentTime"]
+- ["So8NSObjectC", "lblPickerTime"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- !private ["So8NSObjectC", "scheduledTimerWithTimeInterval"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "stringForObjectValue"]
+- !private ["So8NSObjectC", "stringFromDate"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "timeSelector"]
+- ["So8NSObjectC", "updateTime"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "DateFormatter"]
+- ["So8NSObjectP", "Selector"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "Timer"]
+- ["So8NSObjectP", "UIDatePicker"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", "ViewController"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "changeDatePicker"]
+- ["So8NSObjectP", "count"]
+- !private ["So8NSObjectP", "date"]
+- !private ["So8NSObjectP", "dateFormat"]
+- !private ["So8NSObjectP", "dateFormatFromTemplate"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "interval"]
+- ["So8NSObjectP", "lblCurrentTime"]
+- ["So8NSObjectP", "lblPickerTime"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "scheduledTimerWithTimeInterval"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "stringForObjectValue"]
+- !private ["So8NSObjectP", "stringFromDate"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "timeSelector"]
+- ["So8NSObjectP", "updateTime"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", ""]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- ["ST", ""]
+- !private ["ST", "init"]
+- !private ["Sx", ""]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "date"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "date"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "DateFormatter"]
+- ["So21UIAppearanceContainerP", "Selector"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "Timer"]
+- ["So21UIAppearanceContainerP", "UIDatePicker"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "ViewController"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "changeDatePicker"]
+- ["So21UIAppearanceContainerP", "count"]
+- !private ["So21UIAppearanceContainerP", "date"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "interval"]
+- ["So21UIAppearanceContainerP", "lblCurrentTime"]
+- ["So21UIAppearanceContainerP", "lblPickerTime"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "timeSelector"]
+- ["So21UIAppearanceContainerP", "updateTime"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "DateFormatter"]
+- ["So18UIContentContainerP", "Selector"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "Timer"]
+- ["So18UIContentContainerP", "UIDatePicker"]
+- ["So18UIContentContainerP", "UILabel"]
+- ["So18UIContentContainerP", "ViewController"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "changeDatePicker"]
+- ["So18UIContentContainerP", "count"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "interval"]
+- ["So18UIContentContainerP", "lblCurrentTime"]
+- ["So18UIContentContainerP", "lblPickerTime"]
+- ["So18UIContentContainerP", "timeSelector"]
+- ["So18UIContentContainerP", "updateTime"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So32UIContextMenuInteractionDelegateP", ""]
+- !private ["So32UIContextMenuInteractionDelegateP", "date"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "date"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "date"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So12UIDatePickerC", "date"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "date"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "DateFormatter"]
+- ["So18UIFocusEnvironmentP", "Selector"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "Timer"]
+- ["So18UIFocusEnvironmentP", "UIDatePicker"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "ViewController"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "changeDatePicker"]
+- ["So18UIFocusEnvironmentP", "count"]
+- !private ["So18UIFocusEnvironmentP", "date"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "interval"]
+- ["So18UIFocusEnvironmentP", "lblCurrentTime"]
+- ["So18UIFocusEnvironmentP", "lblPickerTime"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "timeSelector"]
+- ["So18UIFocusEnvironmentP", "updateTime"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "date"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "date"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "date"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "DateFormatter"]
+- ["So30UIPasteConfigurationSupportingP", "Selector"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "Timer"]
+- ["So30UIPasteConfigurationSupportingP", "UIDatePicker"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "ViewController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "changeDatePicker"]
+- ["So30UIPasteConfigurationSupportingP", "count"]
+- !private ["So30UIPasteConfigurationSupportingP", "date"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "interval"]
+- ["So30UIPasteConfigurationSupportingP", "lblCurrentTime"]
+- ["So30UIPasteConfigurationSupportingP", "lblPickerTime"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "timeSelector"]
+- ["So30UIPasteConfigurationSupportingP", "updateTime"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "DateFormatter"]
+- ["So11UIResponderC", "Selector"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UIDatePicker"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "ViewController"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "changeDatePicker"]
+- ["So11UIResponderC", "count"]
+- !private ["So11UIResponderC", "date"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "interval"]
+- ["So11UIResponderC", "lblCurrentTime"]
+- ["So11UIResponderC", "lblPickerTime"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "timeSelector"]
+- ["So11UIResponderC", "updateTime"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DateFormatter"]
+- ["So30UIResponderStandardEditActionsP", "Selector"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "Timer"]
+- ["So30UIResponderStandardEditActionsP", "UIDatePicker"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "ViewController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "changeDatePicker"]
+- ["So30UIResponderStandardEditActionsP", "count"]
+- !private ["So30UIResponderStandardEditActionsP", "date"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "interval"]
+- ["So30UIResponderStandardEditActionsP", "lblCurrentTime"]
+- ["So30UIResponderStandardEditActionsP", "lblPickerTime"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "timeSelector"]
+- ["So30UIResponderStandardEditActionsP", "updateTime"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "DateFormatter"]
+- ["So16UIStateRestoringP", "Selector"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "Timer"]
+- ["So16UIStateRestoringP", "UIDatePicker"]
+- ["So16UIStateRestoringP", "UILabel"]
+- ["So16UIStateRestoringP", "ViewController"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "changeDatePicker"]
+- ["So16UIStateRestoringP", "count"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "interval"]
+- ["So16UIStateRestoringP", "lblCurrentTime"]
+- ["So16UIStateRestoringP", "lblPickerTime"]
+- ["So16UIStateRestoringP", "timeSelector"]
+- ["So16UIStateRestoringP", "updateTime"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "DateFormatter"]
+- ["So18UITraitEnvironmentP", "Selector"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "Timer"]
+- ["So18UITraitEnvironmentP", "UIDatePicker"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "ViewController"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "changeDatePicker"]
+- ["So18UITraitEnvironmentP", "count"]
+- !private ["So18UITraitEnvironmentP", "date"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "interval"]
+- ["So18UITraitEnvironmentP", "lblCurrentTime"]
+- ["So18UITraitEnvironmentP", "lblPickerTime"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "timeSelector"]
+- ["So18UITraitEnvironmentP", "updateTime"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "DateFormatter"]
+- ["So23UIUserActivityRestoringP", "Selector"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "Timer"]
+- ["So23UIUserActivityRestoringP", "UIDatePicker"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", "ViewController"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "changeDatePicker"]
+- ["So23UIUserActivityRestoringP", "count"]
+- !private ["So23UIUserActivityRestoringP", "date"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "interval"]
+- ["So23UIUserActivityRestoringP", "lblCurrentTime"]
+- ["So23UIUserActivityRestoringP", "lblPickerTime"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "timeSelector"]
+- ["So23UIUserActivityRestoringP", "updateTime"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "date"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "DateFormatter"]
+- ["So16UIViewControllerC", "Selector"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UIDatePicker"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "ViewController"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "changeDatePicker"]
+- ["So16UIViewControllerC", "count"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "interval"]
+- ["So16UIViewControllerC", "lblCurrentTime"]
+- ["So16UIViewControllerC", "lblPickerTime"]
+- ["So16UIViewControllerC", "timeSelector"]
+- ["So16UIViewControllerC", "updateTime"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10DatePicker14ViewControllerC", "DateFormatter"]
+- ["10DatePicker14ViewControllerC", "Selector"]
+- !private ["10DatePicker14ViewControllerC", "String"]
+- !private ["10DatePicker14ViewControllerC", "Timer"]
+- ["10DatePicker14ViewControllerC", "UIDatePicker"]
+- ["10DatePicker14ViewControllerC", "UILabel"]
+- ["10DatePicker14ViewControllerC", "ViewController"]
+- ["10DatePicker14ViewControllerC", ""]
+- ["10DatePicker14ViewControllerC", "changeDatePicker"]
+- ["10DatePicker14ViewControllerC", "count"]
+- ["10DatePicker14ViewControllerC", "deinit"]
+- ["10DatePicker14ViewControllerC", "init"]
+- ["10DatePicker14ViewControllerC", "interval"]
+- ["10DatePicker14ViewControllerC", "lblCurrentTime"]
+- ["10DatePicker14ViewControllerC", "lblPickerTime"]
+- ["10DatePicker14ViewControllerC", "timeSelector"]
+- ["10DatePicker14ViewControllerC", "updateTime"]
+- ["10DatePicker14ViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DateFormatter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Timer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "changeDatePicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interval"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblCurrentTime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lblPickerTime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeSelector"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "updateTime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "DateFormatter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Timer"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "changeDatePicker"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "count"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "date"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dateFormat"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "interval"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lblCurrentTime"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lblPickerTime"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timeSelector"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateTime"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "date"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "So15NSDateFormatterC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "So11NSFormatterC"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- "ST"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So7NSTimerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So12UIDatePickerC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "10DatePicker14ViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b4c6bcb09a6af89292ad616f833a3637"

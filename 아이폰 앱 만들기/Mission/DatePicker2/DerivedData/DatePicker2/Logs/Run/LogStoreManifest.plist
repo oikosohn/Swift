@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4BD73D37-B3A0-4354-B6C3-52CFAF820A2B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4BD73D37-B3A0-4354-B6C3-52CFAF820A2B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624390036.78595197</real>
+			<key>timeStoppedRecording</key>
+			<real>624390490.43787897</real>
+			<key>title</key>
+			<string>Run DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>4BD73D37-B3A0-4354-B6C3-52CFAF820A2B</string>
+		</dict>
+		<key>60242E3F-AEB9-48E9-9AC4-06110387E76A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>60242E3F-AEB9-48E9-9AC4-06110387E76A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624389941.07000005</real>
+			<key>timeStoppedRecording</key>
+			<real>624390032.42693198</real>
+			<key>title</key>
+			<string>Run DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>60242E3F-AEB9-48E9-9AC4-06110387E76A</string>
+		</dict>
+		<key>8AC16F6F-C391-497C-BABF-42BBF939CCFC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AC16F6F-C391-497C-BABF-42BBF939CCFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624390498.20383298</real>
+			<key>timeStoppedRecording</key>
+			<real>624390954.36804199</real>
+			<key>title</key>
+			<string>Run DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>8AC16F6F-C391-497C-BABF-42BBF939CCFC</string>
+		</dict>
+		<key>8FDB1A2C-ECCA-4BBC-81BE-66584C128468</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8FDB1A2C-ECCA-4BBC-81BE-66584C128468.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>623334376.32792699</real>
+			<key>timeStoppedRecording</key>
+			<real>623334552.424927</real>
+			<key>title</key>
+			<string>Run DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>8FDB1A2C-ECCA-4BBC-81BE-66584C128468</string>
+		</dict>
+		<key>C0545C18-F54C-4DD4-9622-F199F4A3C320</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C0545C18-F54C-4DD4-9622-F199F4A3C320.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624391144.92170703</real>
+			<key>timeStoppedRecording</key>
+			<real>624391211.48179102</real>
+			<key>title</key>
+			<string>Run DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>C0545C18-F54C-4DD4-9622-F199F4A3C320</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

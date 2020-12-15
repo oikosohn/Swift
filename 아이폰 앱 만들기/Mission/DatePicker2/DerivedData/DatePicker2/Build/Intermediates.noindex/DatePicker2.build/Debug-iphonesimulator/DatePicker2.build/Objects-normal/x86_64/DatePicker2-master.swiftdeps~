@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "40ddd309437772baffcb411551a0706f"
+build_time: [1602698154, 435728000]
+inputs:
+  "/Users/son/Desktop/DatePicker2/DatePicker2/ViewController.swift": !dirty [1602698154, 322016428]
+  "/Users/son/Desktop/DatePicker2/DatePicker2/AppDelegate.swift": [1601641371, 242973589]
+  "/Users/son/Desktop/DatePicker2/DatePicker2/SceneDelegate.swift": [1601641371, 247215932]

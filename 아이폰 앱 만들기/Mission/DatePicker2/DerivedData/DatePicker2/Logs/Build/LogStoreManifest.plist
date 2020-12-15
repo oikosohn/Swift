@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0FF15F33-0D5B-4FA1-B5A9-7A7B7A10CED2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FF15F33-0D5B-4FA1-B5A9-7A7B7A10CED2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624391143.36875796</real>
+			<key>timeStoppedRecording</key>
+			<real>624391144.91793299</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>0FF15F33-0D5B-4FA1-B5A9-7A7B7A10CED2</string>
+		</dict>
+		<key>2355F088-859B-43E0-A305-43439972BD08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2355F088-859B-43E0-A305-43439972BD08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624389932.12895095</real>
+			<key>timeStoppedRecording</key>
+			<real>624389941.06592906</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>2355F088-859B-43E0-A305-43439972BD08</string>
+		</dict>
+		<key>575E0BF2-929D-4F99-9949-FF222B67012A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>575E0BF2-929D-4F99-9949-FF222B67012A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624389765.78162706</real>
+			<key>timeStoppedRecording</key>
+			<real>624389765.92882299</real>
+			<key>title</key>
+			<string>Clean DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>575E0BF2-929D-4F99-9949-FF222B67012A</string>
+		</dict>
+		<key>B6DF35D5-31D7-4826-96BB-99B40C3F867B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6DF35D5-31D7-4826-96BB-99B40C3F867B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624390490.395069</real>
+			<key>timeStoppedRecording</key>
+			<real>624390498.20058501</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>B6DF35D5-31D7-4826-96BB-99B40C3F867B</string>
+		</dict>
+		<key>BEBE924E-61B7-4E61-8E9A-9F41E1C56241</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BEBE924E-61B7-4E61-8E9A-9F41E1C56241.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624390032.23163402</real>
+			<key>timeStoppedRecording</key>
+			<real>624390036.75869</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>BEBE924E-61B7-4E61-8E9A-9F41E1C56241</string>
+		</dict>
+		<key>D5D68C21-3C90-4543-8466-D858F2CDFF63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5D68C21-3C90-4543-8466-D858F2CDFF63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>624390954.33135498</real>
+			<key>timeStoppedRecording</key>
+			<real>624390955.77695704</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>D5D68C21-3C90-4543-8466-D858F2CDFF63</string>
+		</dict>
+		<key>FBF52AD5-630C-4303-9E03-18CE84A291FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBF52AD5-630C-4303-9E03-18CE84A291FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DatePicker2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DatePicker2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DatePicker2</string>
+			<key>timeStartedRecording</key>
+			<real>623334772.92125297</real>
+			<key>timeStoppedRecording</key>
+			<real>623334772.99258101</real>
+			<key>title</key>
+			<string>Build DatePicker2</string>
+			<key>uniqueIdentifier</key>
+			<string>FBF52AD5-630C-4303-9E03-18CE84A291FD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

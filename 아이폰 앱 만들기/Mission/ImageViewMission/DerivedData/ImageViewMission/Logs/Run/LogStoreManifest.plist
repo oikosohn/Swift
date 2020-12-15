@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5C4A5D5E-8C75-4B56-877D-F838C62E67D4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C4A5D5E-8C75-4B56-877D-F838C62E67D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageViewMission project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageViewMission</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ImageViewMission</string>
+			<key>timeStartedRecording</key>
+			<real>623691247.83799195</real>
+			<key>timeStoppedRecording</key>
+			<real>623691568.84184206</real>
+			<key>title</key>
+			<string>Run ImageViewMission</string>
+			<key>uniqueIdentifier</key>
+			<string>5C4A5D5E-8C75-4B56-877D-F838C62E67D4</string>
+		</dict>
+		<key>F7F2C3E7-272D-4E24-B11B-7BA58ABAC0DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7F2C3E7-272D-4E24-B11B-7BA58ABAC0DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageViewMission project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageViewMission</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ImageViewMission</string>
+			<key>timeStartedRecording</key>
+			<real>623690856.180493</real>
+			<key>timeStoppedRecording</key>
+			<real>623691026.58582401</real>
+			<key>title</key>
+			<string>Run ImageViewMission</string>
+			<key>uniqueIdentifier</key>
+			<string>F7F2C3E7-272D-4E24-B11B-7BA58ABAC0DA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
