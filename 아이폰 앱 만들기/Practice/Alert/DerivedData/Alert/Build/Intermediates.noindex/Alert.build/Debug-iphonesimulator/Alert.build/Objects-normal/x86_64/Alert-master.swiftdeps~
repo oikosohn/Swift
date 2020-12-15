@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "7ae9432208d672d337070e98b2edf862"
+build_time: [1602336770, 658242000]
+inputs:
+  "/Users/son/Desktop/Alert/Alert/ViewController.swift": [1602336770, 546808616]
+  "/Users/son/Desktop/Alert/Alert/AppDelegate.swift": [1602336092, 835931918]
+  "/Users/son/Desktop/Alert/Alert/SceneDelegate.swift": [1602336092, 861435736]

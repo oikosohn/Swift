@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>42D99EC8-D125-4A6E-A900-4517D8FF95F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42D99EC8-D125-4A6E-A900-4517D8FF95F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>624388609.18554699</real>
+			<key>timeStoppedRecording</key>
+			<real>624388619.51041806</real>
+			<key>title</key>
+			<string>Build PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>42D99EC8-D125-4A6E-A900-4517D8FF95F7</string>
+		</dict>
+		<key>4A71EB87-7127-48DD-822A-4AF4B86EFB7B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A71EB87-7127-48DD-822A-4AF4B86EFB7B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>624388592.52163196</real>
+			<key>timeStoppedRecording</key>
+			<real>624388594.20155895</real>
+			<key>title</key>
+			<string>Build PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>4A71EB87-7127-48DD-822A-4AF4B86EFB7B</string>
+		</dict>
+		<key>7AAD8014-8B4D-4141-85E7-7E60D5635F4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AAD8014-8B4D-4141-85E7-7E60D5635F4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>623924426.74532294</real>
+			<key>timeStoppedRecording</key>
+			<real>623924429.36318505</real>
+			<key>title</key>
+			<string>Build PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>7AAD8014-8B4D-4141-85E7-7E60D5635F4E</string>
+		</dict>
+		<key>B771BD0D-03EC-45B5-9E36-B41D051BCAF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B771BD0D-03EC-45B5-9E36-B41D051BCAF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>624388599.251652</real>
+			<key>timeStoppedRecording</key>
+			<real>624388600.59641004</real>
+			<key>title</key>
+			<string>Build PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>B771BD0D-03EC-45B5-9E36-B41D051BCAF0</string>
+		</dict>
+		<key>D959EF07-981E-4EAA-B4B6-D468964BD3E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D959EF07-981E-4EAA-B4B6-D468964BD3E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>624388606.22147799</real>
+			<key>timeStoppedRecording</key>
+			<real>624388606.31317604</real>
+			<key>title</key>
+			<string>Clean PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>D959EF07-981E-4EAA-B4B6-D468964BD3E6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

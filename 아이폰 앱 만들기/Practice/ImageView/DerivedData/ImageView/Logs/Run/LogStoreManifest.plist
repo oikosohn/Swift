@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>064542A1-909B-4B41-A14F-8F6290EE9344</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>064542A1-909B-4B41-A14F-8F6290EE9344.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ImageView</string>
+			<key>timeStartedRecording</key>
+			<real>623078867.98565197</real>
+			<key>timeStoppedRecording</key>
+			<real>623080813.66293001</real>
+			<key>title</key>
+			<string>Run ImageView</string>
+			<key>uniqueIdentifier</key>
+			<string>064542A1-909B-4B41-A14F-8F6290EE9344</string>
+		</dict>
+		<key>08AA534A-8160-4277-8295-D38523106860</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>08AA534A-8160-4277-8295-D38523106860.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ImageView</string>
+			<key>timeStartedRecording</key>
+			<real>623080820.76765203</real>
+			<key>timeStoppedRecording</key>
+			<real>623081938.83343506</real>
+			<key>title</key>
+			<string>Run ImageView</string>
+			<key>uniqueIdentifier</key>
+			<string>08AA534A-8160-4277-8295-D38523106860</string>
+		</dict>
+		<key>62D6C64F-563F-478B-98B5-C754FCBAA9FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>62D6C64F-563F-478B-98B5-C754FCBAA9FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ImageView</string>
+			<key>timeStartedRecording</key>
+			<real>623081941.70172298</real>
+			<key>timeStoppedRecording</key>
+			<real>623082364.36792803</real>
+			<key>title</key>
+			<string>Run ImageView</string>
+			<key>uniqueIdentifier</key>
+			<string>62D6C64F-563F-478B-98B5-C754FCBAA9FD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

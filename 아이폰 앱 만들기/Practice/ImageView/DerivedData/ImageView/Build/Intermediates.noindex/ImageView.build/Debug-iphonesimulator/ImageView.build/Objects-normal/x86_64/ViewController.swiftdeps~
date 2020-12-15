@@ -1,0 +1,676 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "9ImageView0B10ControllerC"
+provides-member:
+- ["9ImageView0B10ControllerC", ""]
+provides-dynamic-lookup:
+- "btnResize"
+- "btnResizeImage"
+- "imgOff"
+- "imgOn"
+- "imgView"
+- "isZoom"
+- "switchImageOnOff"
+- "viewDidLoad"
+depends-top-level:
+- !private "!"
+- !private "*"
+- !private "/"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "CGFloat"
+- !private "CGSize"
+- !private "FloatLiteralType"
+- !private "StringLiteralType"
+- "UIButton"
+- "UIImage"
+- "UIImageView"
+- "UISwitch"
+- "UIViewController"
+- "ViewController"
+- !private "btnResize"
+- !private "imgOff"
+- !private "imgOn"
+- !private "imgView"
+- !private "isZoom"
+depends-member:
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "setTitle"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGRectV", "width"]
+- !private ["So6CGSizeV", "init"]
+- !private ["s7CVarArgP", "CGSize"]
+- !private ["s7CVarArgP", "UIImage"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "btnResize"]
+- !private ["s7CVarArgP", "btnResizeImage"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "imgOff"]
+- !private ["s7CVarArgP", "imgOn"]
+- !private ["s7CVarArgP", "imgView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isZoom"]
+- !private ["s7CVarArgP", "setTitle"]
+- !private ["s7CVarArgP", "switchImageOnOff"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "btnResize"]
+- !private ["s28CustomDebugStringConvertibleP", "btnResizeImage"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "imgOff"]
+- !private ["s28CustomDebugStringConvertibleP", "imgOn"]
+- !private ["s28CustomDebugStringConvertibleP", "imgView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isZoom"]
+- !private ["s28CustomDebugStringConvertibleP", "setTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "switchImageOnOff"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "frame"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "setTitle"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "btnResize"]
+- !private ["s23CustomStringConvertibleP", "btnResizeImage"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "imgOff"]
+- !private ["s23CustomStringConvertibleP", "imgOn"]
+- !private ["s23CustomStringConvertibleP", "imgView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isZoom"]
+- !private ["s23CustomStringConvertibleP", "setTitle"]
+- !private ["s23CustomStringConvertibleP", "switchImageOnOff"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "frame"]
+- !private ["Se", "height"]
+- !private ["Se", "image"]
+- !private ["Se", "init"]
+- !private ["Se", "setTitle"]
+- !private ["Se", "size"]
+- !private ["Se", "width"]
+- !private ["SE", "frame"]
+- !private ["SE", "height"]
+- !private ["SE", "image"]
+- !private ["SE", "init"]
+- !private ["SE", "setTitle"]
+- !private ["SE", "size"]
+- !private ["SE", "width"]
+- !private ["SQ", "CGSize"]
+- !private ["SQ", "UIImage"]
+- ["SQ", ""]
+- !private ["SQ", "btnResize"]
+- !private ["SQ", "btnResizeImage"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "height"]
+- !private ["SQ", "image"]
+- !private ["SQ", "imgOff"]
+- !private ["SQ", "imgOn"]
+- !private ["SQ", "imgView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isZoom"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "setTitle"]
+- !private ["SQ", "size"]
+- !private ["SQ", "switchImageOnOff"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "FloatLiteralType"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "frame"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "setTitle"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "CGSize"]
+- !private ["SH", "UIImage"]
+- ["SH", ""]
+- !private ["SH", "btnResize"]
+- !private ["SH", "btnResizeImage"]
+- !private ["SH", "frame"]
+- !private ["SH", "image"]
+- !private ["SH", "imgOff"]
+- !private ["SH", "imgOn"]
+- !private ["SH", "imgView"]
+- !private ["SH", "init"]
+- !private ["SH", "isZoom"]
+- !private ["SH", "setTitle"]
+- !private ["SH", "switchImageOnOff"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", "CGFloat"]
+- !private ["So8NSCodingP", "CGSize"]
+- ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", "UIImage"]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UISwitch"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "btnResize"]
+- ["So8NSCodingP", "btnResizeImage"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "imgOff"]
+- ["So8NSCodingP", "imgOn"]
+- ["So8NSCodingP", "imgView"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "isZoom"]
+- !private ["So8NSCodingP", "setTitle"]
+- ["So8NSCodingP", "switchImageOnOff"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CGFloat"]
+- !private ["So26NSExtensionRequestHandlingP", "CGSize"]
+- ["So26NSExtensionRequestHandlingP", "UIButton"]
+- ["So26NSExtensionRequestHandlingP", "UIImage"]
+- ["So26NSExtensionRequestHandlingP", "UIImageView"]
+- ["So26NSExtensionRequestHandlingP", "UISwitch"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "btnResize"]
+- ["So26NSExtensionRequestHandlingP", "btnResizeImage"]
+- ["So26NSExtensionRequestHandlingP", "imgOff"]
+- ["So26NSExtensionRequestHandlingP", "imgOn"]
+- ["So26NSExtensionRequestHandlingP", "imgView"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "isZoom"]
+- ["So26NSExtensionRequestHandlingP", "switchImageOnOff"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So8NSObjectC", "CGFloat"]
+- !private ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UISwitch"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "btnResize"]
+- ["So8NSObjectC", "btnResizeImage"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "frameForAlignmentRect"]
+- !private ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "imageNamed"]
+- !private ["So8NSObjectC", "imageWithCGImage"]
+- !private ["So8NSObjectC", "imageWithCIImage"]
+- !private ["So8NSObjectC", "imageWithContentsOfFile"]
+- !private ["So8NSObjectC", "imageWithData"]
+- ["So8NSObjectC", "imgOff"]
+- ["So8NSObjectC", "imgOn"]
+- ["So8NSObjectC", "imgView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isZoom"]
+- !private ["So8NSObjectC", "jpegData"]
+- !private ["So8NSObjectC", "pngData"]
+- !private ["So8NSObjectC", "setTitle"]
+- ["So8NSObjectC", "switchImageOnOff"]
+- !private ["So8NSObjectC", "systemImageNamed"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CGFloat"]
+- !private ["So8NSObjectP", "CGSize"]
+- ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", "UIImage"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UISwitch"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "btnResize"]
+- ["So8NSObjectP", "btnResizeImage"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "frameForAlignmentRect"]
+- !private ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "imageNamed"]
+- !private ["So8NSObjectP", "imageWithCGImage"]
+- !private ["So8NSObjectP", "imageWithCIImage"]
+- !private ["So8NSObjectP", "imageWithContentsOfFile"]
+- !private ["So8NSObjectP", "imageWithData"]
+- ["So8NSObjectP", "imgOff"]
+- ["So8NSObjectP", "imgOn"]
+- ["So8NSObjectP", "imgView"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "isZoom"]
+- !private ["So8NSObjectP", "jpegData"]
+- !private ["So8NSObjectP", "pngData"]
+- !private ["So8NSObjectP", "setTitle"]
+- ["So8NSObjectP", "switchImageOnOff"]
+- !private ["So8NSObjectP", "systemImageNamed"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["Sq", "frame"]
+- !private ["Sq", "image"]
+- !private ["Sq", "setTitle"]
+- !private ["SY", ""]
+- !private ["SY", "normal"]
+- ["ST", ""]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "setTitle"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "setTitle"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "setTitle"]
+- !private ["So21UIAppearanceContainerP", "CGFloat"]
+- !private ["So21UIAppearanceContainerP", "CGSize"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", "UIImage"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UISwitch"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "btnResize"]
+- ["So21UIAppearanceContainerP", "btnResizeImage"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- ["So21UIAppearanceContainerP", "imgOff"]
+- ["So21UIAppearanceContainerP", "imgOn"]
+- ["So21UIAppearanceContainerP", "imgView"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "isZoom"]
+- !private ["So21UIAppearanceContainerP", "setTitle"]
+- ["So21UIAppearanceContainerP", "switchImageOnOff"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "setTitle"]
+- !private ["So18UIContentContainerP", "CGFloat"]
+- !private ["So18UIContentContainerP", "CGSize"]
+- ["So18UIContentContainerP", "UIButton"]
+- ["So18UIContentContainerP", "UIImage"]
+- ["So18UIContentContainerP", "UIImageView"]
+- ["So18UIContentContainerP", "UISwitch"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "btnResize"]
+- ["So18UIContentContainerP", "btnResizeImage"]
+- ["So18UIContentContainerP", "imgOff"]
+- ["So18UIContentContainerP", "imgOn"]
+- ["So18UIContentContainerP", "imgView"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "isZoom"]
+- ["So18UIContentContainerP", "switchImageOnOff"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So32UIContextMenuInteractionDelegateP", "setTitle"]
+- ["So9UIControlC", ""]
+- !private ["So9UIControlC", "setTitle"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "setTitle"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "setTitle"]
+- !private ["So18UIFocusEnvironmentP", "CGFloat"]
+- !private ["So18UIFocusEnvironmentP", "CGSize"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", "UIImage"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UISwitch"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "btnResize"]
+- ["So18UIFocusEnvironmentP", "btnResizeImage"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- ["So18UIFocusEnvironmentP", "imgOff"]
+- ["So18UIFocusEnvironmentP", "imgOn"]
+- ["So18UIFocusEnvironmentP", "imgView"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "isZoom"]
+- !private ["So18UIFocusEnvironmentP", "setTitle"]
+- ["So18UIFocusEnvironmentP", "switchImageOnOff"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "setTitle"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "setTitle"]
+- !private ["So7UIImageC", "init"]
+- !private ["So11UIImageViewC", "frame"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- !private ["So24UILargeContentViewerItemP", "setTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGFloat"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UISwitch"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "btnResize"]
+- ["So30UIPasteConfigurationSupportingP", "btnResizeImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "frameForAlignmentRect"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- ["So30UIPasteConfigurationSupportingP", "imgOff"]
+- ["So30UIPasteConfigurationSupportingP", "imgOn"]
+- ["So30UIPasteConfigurationSupportingP", "imgView"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "isZoom"]
+- !private ["So30UIPasteConfigurationSupportingP", "setTitle"]
+- ["So30UIPasteConfigurationSupportingP", "switchImageOnOff"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CGFloat"]
+- !private ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UISwitch"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "btnResize"]
+- ["So11UIResponderC", "btnResizeImage"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "frameForAlignmentRect"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "imgOff"]
+- ["So11UIResponderC", "imgOn"]
+- ["So11UIResponderC", "imgView"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "isZoom"]
+- !private ["So11UIResponderC", "setTitle"]
+- ["So11UIResponderC", "switchImageOnOff"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CGFloat"]
+- !private ["So30UIResponderStandardEditActionsP", "CGSize"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", "UIImage"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UISwitch"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "btnResize"]
+- ["So30UIResponderStandardEditActionsP", "btnResizeImage"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "frameForAlignmentRect"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- ["So30UIResponderStandardEditActionsP", "imgOff"]
+- ["So30UIResponderStandardEditActionsP", "imgOn"]
+- ["So30UIResponderStandardEditActionsP", "imgView"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "isZoom"]
+- !private ["So30UIResponderStandardEditActionsP", "setTitle"]
+- ["So30UIResponderStandardEditActionsP", "switchImageOnOff"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "setTitle"]
+- !private ["So16UIStateRestoringP", "CGFloat"]
+- !private ["So16UIStateRestoringP", "CGSize"]
+- ["So16UIStateRestoringP", "UIButton"]
+- ["So16UIStateRestoringP", "UIImage"]
+- ["So16UIStateRestoringP", "UIImageView"]
+- ["So16UIStateRestoringP", "UISwitch"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "btnResize"]
+- ["So16UIStateRestoringP", "btnResizeImage"]
+- ["So16UIStateRestoringP", "imgOff"]
+- ["So16UIStateRestoringP", "imgOn"]
+- ["So16UIStateRestoringP", "imgView"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "isZoom"]
+- ["So16UIStateRestoringP", "switchImageOnOff"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CGFloat"]
+- !private ["So18UITraitEnvironmentP", "CGSize"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", "UIImage"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UISwitch"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "btnResize"]
+- ["So18UITraitEnvironmentP", "btnResizeImage"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- ["So18UITraitEnvironmentP", "imgOff"]
+- ["So18UITraitEnvironmentP", "imgOn"]
+- ["So18UITraitEnvironmentP", "imgView"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "isZoom"]
+- !private ["So18UITraitEnvironmentP", "setTitle"]
+- ["So18UITraitEnvironmentP", "switchImageOnOff"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CGFloat"]
+- !private ["So23UIUserActivityRestoringP", "CGSize"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", "UIImage"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UISwitch"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "btnResize"]
+- ["So23UIUserActivityRestoringP", "btnResizeImage"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "frameForAlignmentRect"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- ["So23UIUserActivityRestoringP", "imgOff"]
+- ["So23UIUserActivityRestoringP", "imgOn"]
+- ["So23UIUserActivityRestoringP", "imgView"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "isZoom"]
+- !private ["So23UIUserActivityRestoringP", "setTitle"]
+- ["So23UIUserActivityRestoringP", "switchImageOnOff"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "setTitle"]
+- !private ["So16UIViewControllerC", "CGFloat"]
+- !private ["So16UIViewControllerC", "CGSize"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UISwitch"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "btnResize"]
+- ["So16UIViewControllerC", "btnResizeImage"]
+- ["So16UIViewControllerC", "imgOff"]
+- ["So16UIViewControllerC", "imgOn"]
+- ["So16UIViewControllerC", "imgView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "isZoom"]
+- ["So16UIViewControllerC", "switchImageOnOff"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["9ImageView0B10ControllerC", "CGFloat"]
+- !private ["9ImageView0B10ControllerC", "CGSize"]
+- ["9ImageView0B10ControllerC", "UIButton"]
+- ["9ImageView0B10ControllerC", "UIImage"]
+- ["9ImageView0B10ControllerC", "UIImageView"]
+- ["9ImageView0B10ControllerC", "UISwitch"]
+- ["9ImageView0B10ControllerC", ""]
+- ["9ImageView0B10ControllerC", "btnResize"]
+- ["9ImageView0B10ControllerC", "btnResizeImage"]
+- ["9ImageView0B10ControllerC", "deinit"]
+- ["9ImageView0B10ControllerC", "imgOff"]
+- ["9ImageView0B10ControllerC", "imgOn"]
+- ["9ImageView0B10ControllerC", "imgView"]
+- ["9ImageView0B10ControllerC", "init"]
+- ["9ImageView0B10ControllerC", "isZoom"]
+- ["9ImageView0B10ControllerC", "switchImageOnOff"]
+- ["9ImageView0B10ControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "btnResize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "btnResizeImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imgOff"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imgOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imgView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isZoom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "switchImageOnOff"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGSize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIImage"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "btnResize"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "btnResizeImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imgOff"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imgOn"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "imgView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isZoom"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "switchImageOnOff"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "frame"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "setTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setTitle"]
+depends-nominal:
+- "SK"
+- !private "So15CALayerDelegateP"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So32UIContextMenuInteractionDelegateP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UIImageC"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "9ImageView0B10ControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f0b8787b7dc8a6a8867c346bc57be838"

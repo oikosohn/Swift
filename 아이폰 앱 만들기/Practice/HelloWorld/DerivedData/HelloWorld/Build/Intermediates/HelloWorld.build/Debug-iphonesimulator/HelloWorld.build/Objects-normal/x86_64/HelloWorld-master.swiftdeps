@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "e7c88339eecf8c5d4689de13326a3373"
+build_time: [647524581, 574115000]
+inputs:
+  "/Users/son/Desktop/HelloWorld/HelloWorld/ViewController.swift": [647524581, 0]
+  "/Users/son/Desktop/HelloWorld/HelloWorld/AppDelegate.swift": [647517554, 0]
